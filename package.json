@@ -1,0 +1,25 @@
+{
+    "name": "verydarkmonokai",
+    "displayName": "VeryDarkMonokai",
+    "description": "A darker version of Monokai",
+    "version": "0.0.1",
+    "publisher": "JMAN",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Darker Monokai",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Darker Monokai-color-theme.json"
+        }],
+        "iconThemes": [{
+            "id": "very_dark_monokai_icons",
+            "label": "very_dark_monokai_icons",
+            "path": "./icon-themes/VeryDarkMonokaiIcons.json"
+        }]
+    }
+}
