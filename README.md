@@ -37,7 +37,7 @@ I also suggest installing and using Operator Mono - a great font for coding!
 
 ### What the theme looks like:
 
-![No open files](http://take.ms/5XAIZ)
-![With file open](http://take.ms/v6fBU)
+![No open files](/images/no-open-files.png?raw=true)
+![With file open](/images/with-open-file.png?raw=true)
 
 **Enjoy!**
