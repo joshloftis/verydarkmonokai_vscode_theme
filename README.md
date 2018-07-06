@@ -31,6 +31,8 @@ code
 
 In VSCode select `Code > Perferences > Color Theme` or `⌘ K ⌘ T`. Finally, select `Darker Monokai`.
 
+The icon set is the same set from Monokai Pro. Feel free to replace these icons with whatever icons pack you prefer.
+
 To use the icon theme, in VSCODE select `Code > Perferences > File Icon Theme` and then select `very_dark_monokai_icons`.
 
 I also suggest installing and using Operator Mono - a great font for coding!
