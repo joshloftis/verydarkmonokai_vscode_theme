@@ -40,6 +40,6 @@ I also suggest installing and using Operator Mono - a great font for coding!
 ![No open files](/images/no-open-files.png?raw=true)
 ![With file open](/images/with-open-file.png?raw=true)
 
-(I think the screenshots darken the images a bit. The theme is dark, yes, but a bit lighter I think than these images reveal. The text is also more vibrant.)
+(I think the screenshots darken the colors a bit. The theme is dark, yes, but a bit lighter I think than these images reveal. The text is also more vibrant.)
 
 **Enjoy!**
