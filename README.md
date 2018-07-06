@@ -35,4 +35,9 @@ To use the icon theme, in VSCODE select `Code > Perferences > File Icon Theme` a
 
 I also suggest installing and using Operator Mono - a great font for coding!
 
+### What the theme looks like:
+
+![No open files](http://take.ms/5XAIZ)
+![With file open](http://take.ms/v6fBU)
+
 **Enjoy!**
