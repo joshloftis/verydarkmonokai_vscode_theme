@@ -7,7 +7,7 @@ This is a personal theme for VSCode. It's based off of Monokai Pro and Gotham.
 ### To use this theme
 
 ```
-git clone git@github.com:jshlfts32/verydarkmonokai_vscode_theme.git
+git clone git@github.com:joshloftis/verydarkmonokai_vscode_theme.git
 cd verydarkmonokai_vscode_theme
 rm -rf .git
 ```
